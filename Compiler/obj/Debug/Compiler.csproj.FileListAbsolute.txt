@@ -1,0 +1,8 @@
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\bin\Debug\Compiler.exe.config
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\bin\Debug\Compiler.exe
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\bin\Debug\Compiler.pdb
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\bin\Debug\CodeParser.dll
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\bin\Debug\CodeParser.pdb
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\obj\Debug\Compiler.exe
+F:\编程资源\技术文章\毕业设计\Compiler\Compiler\obj\Debug\Compiler.pdb

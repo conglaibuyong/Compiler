@@ -1,0 +1,5 @@
+F:\编程资源\技术文章\毕业设计\Compiler\CodeParser\bin\Debug\CodeParser.dll
+F:\编程资源\技术文章\毕业设计\Compiler\CodeParser\bin\Debug\CodeParser.pdb
+F:\编程资源\技术文章\毕业设计\Compiler\CodeParser\obj\Debug\CodeParser.csprojResolveAssemblyReference.cache
+F:\编程资源\技术文章\毕业设计\Compiler\CodeParser\obj\Debug\CodeParser.dll
+F:\编程资源\技术文章\毕业设计\Compiler\CodeParser\obj\Debug\CodeParser.pdb
